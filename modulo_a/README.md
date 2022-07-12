@@ -14,3 +14,60 @@ Biografia livros recomendados: javaScript O guia definitivo ator Dave Flarengan,
 guia de graça da Mozila e .ecma aplicativo usado node.js
 
 ## Módulo A #4 Criando Seu Primeiro script
+
+## Módulo B #6
+
+Comentários.
+    // uma única linha
+    /* mais de uma linha de código
+     /*
+
+    identificadores
+    
+     começar com letra, $ ou_ 
+    
+    não podem começar com números
+
+    É possivel usar letras ou números
+
+    É possivel usar acentos e símbolos
+
+    Não poder conter espaços
+
+    Não podem ser palavras reservadas
+
+    Varios tipos de variaveis
+
+Módulo B # 7 Operadores (parte 1)
+
+ariméticos
+5+2 = 7
+5-2 = 3
+5*2 = 10
+5/2 = 2.5
+5%2 = 1
+5**2 = 25
+
+Prêcendencia 
+
+()
+**
+*/%
++-
+
+atribuição simples 
+
+var a = 5 + 3 = 8
+var b = a % 5 = 3
+var c = 5 * b ** 2 = 45
+var d = 10 -a/2 = 6
+var e =6*2/d = 2
+var f = b%e + 4/e = 3
+
+var n = 3
+n = + 4 = 7
+n = n-5
+n=n*4 = 8
+n= n/2 = 4
+n=n**2 = 16
+n=n%5 = 1
