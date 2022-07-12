@@ -71,3 +71,13 @@ n=n*4 = 8
 n= n/2 = 4
 n=n**2 = 16
 n=n%5 = 1
+
+módulo B #8  
+
+treino no node e exemplos (lembrar treinar sabado)
+
+Módulo C 
+
+DOCUMENT OBJECT MODEL
+Árvore Dom
+Manipulando Dom
