@@ -81,3 +81,15 @@ Módulo C
 DOCUMENT OBJECT MODEL
 Árvore Dom
 Manipulando Dom
+
+Módulo #9
+exercícios 
+
+Document object model
+
+saber html pra fazer as aulas finais
+        getElemntsByTagName()
+        por id
+        por nome
+        por classe
+        por seletor
