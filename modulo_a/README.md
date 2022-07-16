@@ -93,3 +93,31 @@ saber html pra fazer as aulas finais
         por nome
         por classe
         por seletor
+
+        Módulo 10 treino eventos Dom
+
+        o que são eventos?
+
+        são coisas que poder fazer com o elemento <div>
+
+        o que é uma função ou funcionalidade?
+
+        são um conjunto de códigos que vão ser executadas só quando e evento occorer 
+
+    bloco        
+        function acção(param){
+
+        }
+
+    tipos de varios click mouse: mouseenter mousemove mousedown mouseup click mouseot
+
+    Módulo D 
+    
+    condições de javascript
+
+    condições simples
+    condições compostas
+    condições aninhadas
+    condições múltiplas
+    exercícios propostos
+        
