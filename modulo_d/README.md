@@ -30,4 +30,16 @@
         false
     }
 
+    ## Módulo D curso em video
+
+    Exercícios
+    Switch(expressão){
+        
+    }
+   
+ 
+    .Condições alinhadas
     
+    Condição multipla
+     
+     Anotação no caderno
