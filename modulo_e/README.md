@@ -39,3 +39,20 @@ Repetições
 while (condição) {
 
 }
+
+Repetições E 14# Repetições parte 2
+
+    Repetições
+
+for (inicio ; teste ; incr){
+
+}
+
+var c=1
+while (c<=10){
+    c++
+}
+
+    for (var c=1; c<=10; c++   ;){
+
+    }
