@@ -66,5 +66,37 @@ Variáveis simples
         num.indexOf(7) 3
         num.indexOf(3) -1
     
+ ## Módulo F 16# '${funcoões em JS}'
 
-            
+chamada, parâmetro, ação, retorno exemplo no vídeo: 16
+
+        FUNÇÕES
+
+    São ações executadas assim que são chamadas ou em decorrência de algum evento.
+
+    Uma função pode receber parâmetros e retornar um resultado.
+
+    onclick 
+
+    function ação(param){
+        return res
+    }
+    ação(5) //chamada
+
+param:parâmetro
+return: ação
+res:retorno
+
+function parimp(n) {
+    if(n%2==0){
+        return 'par'
+    { else }
+        return'ímpar'    
+    }
+}
+let res = parimp(11)
+
+parimp: chamada
+n: parâmetro
+{}: ação
+ímpar: retorno
