@@ -100,3 +100,41 @@ parimp: chamada
 n: parâmetro
 {}: ação
 ímpar: retorno
+
+## 
+Módulo F 17# Próximos passos
+
+nossa rota até aqui...
+   fundamentos
+   variáveis e dados
+   operadores
+   condições
+   repetições
+   arrays
+   functions
+   Dom
+
+   Quais são os próximos passos?
+
+   ...daqui pra frente
+   functions
+   html e css curso em vídeo
+   objetos
+   modularização
+   RegEx
+   Json
+   ajax
+   NodeJs
+
+  array
+   let num = [,5 ,8, 4]
+   num
+   5 8 4
+   0 1 2
+
+   object
+   let amigo = {nome:'josé,sexo'M',peso:85,4,engordar(p){}}
+    
+    amigo
+    josé    m    85,4  [function]
+    nome  sexo   peso  engordar()
