@@ -138,3 +138,9 @@ nossa rota até aqui...
     amigo
     josé    m    85,4  [function]
     nome  sexo   peso  engordar()
+
+    Exercícios  parte #01
+
+    treino
+
+
