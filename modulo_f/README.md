@@ -143,4 +143,12 @@ nossa rota até aqui...
 
     treino
 
+Exercícios parte #02
+    
+    não funcionou por que precissa ter photo shop que é pago
+
+    vou te pergunta sexta-feira como colocar imagem ai já vai tar pronto ja que to colocando os códigos sem colocar imagem por enquanto
+
+    fiz hoje uma aula de um dia mais metade de uma para recuperar.
+
 
